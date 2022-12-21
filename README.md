@@ -4,10 +4,6 @@ GitHub Repo: https://github.com/Keithly009/Note-Taker-Application
 Heroku Repo: https://frozen-earth-34118.herokuapp.com/notes
 
 
-
-
-
-
 Acceptance Criteria: 
 GIVEN a note-taking application
 WHEN I open the Note Taker
