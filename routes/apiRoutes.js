@@ -1,5 +1,6 @@
 const router = require("express").Router(); 
-const uuid = require('../InsertID/uuid')
+const uuid = require('../InsertID/uuid');
+const fs = require('fs');
 router.get('/', (req,res)=> {
     // This gets the notes from the DB
     res.json(`GOT YOUR ${req.method} REQUEST!!!`);
